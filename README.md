@@ -9,6 +9,11 @@ language editions.
 The resulting file can be used as a set of synonyms, for example to expand search queries
 against a dataset about people.
 
+### Building
+
+Setup the build environment with `make`, to generate the synonames files, run
+`make build` in the build environment.
+
 ### Links
 
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-synonym-tokenfilter.html
